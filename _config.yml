@@ -1,7 +1,7 @@
 # Mandatory settings
 
 blog_theme: dark # Or use dark
-name: Asriel's notes
+name: Asriel.re
 paginate: 25
 url: # add your site url (format: https://example.com)
 
